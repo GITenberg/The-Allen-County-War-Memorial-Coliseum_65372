@@ -1,0 +1,34 @@
+_repo: The-Allen-County-War-Memorial-Coliseum_65372
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Adams, Otto H.
+    gutenberg_agent_id: '53305'
+    url: http://www.gutenberg.org/2009/agents/53305
+  - agent_name: Public Library of Fort Wayne and Allen County
+    aliases:
+    - Fort Wayne (Ind.). Public Library of Fort Wayne and Allen County
+    - Ft. Wayne Public Library
+    - Emerine J. Hamilton Reading Room
+    - Fort Wayne Public Library
+    - Allen County (Ind.). Public Library of Fort Wayne and Allen County
+    gutenberg_agent_id: '53025'
+    url: http://www.gutenberg.org/2009/agents/53025
+    wikipedia: https://en.wikipedia.org/wiki/Allen_County_Public_Library
+description: ''
+gutenberg_issued: '2021-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65372'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F516'
+- !lcsh 'Fort Wayne (Ind.) -- Buildings, structures, etc.'
+- !lcsh 'Allen County War Memorial Coliseum (Fort Wayne, Ind.)'
+- !lcsh 'War memorials -- Indiana -- Fort Wayne'
+- GITenberg
+title: The Allen County War Memorial Coliseum
+url: http://www.gutenberg.org/ebooks/65372
